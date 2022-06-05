@@ -94,6 +94,6 @@ public class conditional_statements {
         }
 
         System.out.println("Thank you! See you later");
-
+        sc.close();
     }
 }

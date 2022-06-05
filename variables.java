@@ -11,15 +11,15 @@ public class variables {
 
 
         //Define variable
-        byte a = 10;
-        short b = 20;
-        int c = 30;
-        long d = 30;
-        float e = 30.4f;
-        double f = 14.55d;
-        char g = 'a';
-        boolean h = true;
-        String name = "Amlan";
+        // byte a = 10;
+        // short b = 20;
+        // int c = 30;
+        // long d = 30;
+        // float e = 30.4f;
+        // double f = 14.55d;
+        // char g = 'a';
+        // boolean h = true;
+        // String name = "Amlan";
         //constants
         final float PI = 3.14F;
 
@@ -44,7 +44,7 @@ public class variables {
         System.out.println(n+" * 10 = "+n*10);
         System.out.println("Thank you!, See you later");
 
-
+       sc.close();
 
     }
 
