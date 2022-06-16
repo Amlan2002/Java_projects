@@ -1,3 +1,4 @@
+package pattern;
 public class Pattern_questions {
     public static void main(String[] args) {
 
