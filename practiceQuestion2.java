@@ -28,7 +28,9 @@ public class practiceQuestion2 {
             a[i] = a[n - i - 1];
             a[n - i - 1] = t;
         }
-        removeDuplicate(a, a.length);
+       String result = removeDuplicate(a, a.length);
+       
+        
     }
 
     static String removeDuplicate(char str[], int n)
