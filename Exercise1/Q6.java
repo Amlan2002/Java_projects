@@ -1,4 +1,4 @@
-package Exercise1;
+package Java_projects.Exercise1;
 
 //Write an infinite loop using do while condition.
 public class Q6 {

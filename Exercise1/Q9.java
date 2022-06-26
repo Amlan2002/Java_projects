@@ -1,4 +1,4 @@
-package Exercise1;
+package Java_projects.Exercise1;
 //Write a function that calculates the Greatest Common Divisor of 2 numbers. (BONUS)
 
 import java.util.Scanner;

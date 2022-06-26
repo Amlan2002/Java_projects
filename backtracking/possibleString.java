@@ -1,6 +1,5 @@
-package backtracking;
+package Java_projects.backtracking;
 
-import Recursion.sortedArrayStrictlyIncreasing;
 
 // print all possible string with character A,B,C
 public class possibleString {

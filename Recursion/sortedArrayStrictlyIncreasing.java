@@ -1,4 +1,4 @@
-package Recursion;
+package Java_projects.Recursion;
 //check if an array is sorted(Strictly Incresing )
 //time complexity O(n)
 public class sortedArrayStrictlyIncreasing {

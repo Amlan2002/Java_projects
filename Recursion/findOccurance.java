@@ -1,4 +1,4 @@
-package Recursion;
+package Java_projects.Recursion;
 
 //find the first and last occurance of an element in a string
 public class findOccurance {

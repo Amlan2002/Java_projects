@@ -1,4 +1,4 @@
-package pattern;
+package Java_projects.pattern;
 public class Pattern_questions {
     public static void main(String[] args) {
 

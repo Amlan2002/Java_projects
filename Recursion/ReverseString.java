@@ -1,4 +1,4 @@
-package Recursion;
+package Java_projects.Recursion;
 //Time complexity O(n)
 public class ReverseString {
     public static void printRev(String str, int idx){

@@ -1,4 +1,4 @@
-package Exercise1;
+package Java_projects.Exercise1;
 
 //Write a function that takes in the radius as input and returns the circumference of a circle.
 import java.util.Scanner;

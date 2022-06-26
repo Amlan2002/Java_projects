@@ -1,6 +1,14 @@
-package pattern;
+package Java_projects.pattern;
 
 import java.util.Scanner;
+
+// 4444444
+// 4333334
+// 4322234
+// 4321234
+// 4322234
+// 4333334
+// 4444444
 
 public class pattern_question2 {
     public static void main(String[] args) {

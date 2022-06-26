@@ -1,3 +1,4 @@
+package Java_projects;
 import java.util.Scanner;
 
 public class conditional_statements {
