@@ -1,4 +1,4 @@
-package Java_projects;
+package Java_projects.example;
 
 
 public class practiceQuestion1 {

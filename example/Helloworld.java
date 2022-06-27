@@ -1,4 +1,4 @@
-package Java_projects;
+package Java_projects.example;
 class Helloworld {
     public static void main(String[] args) {
         System.out.println("Helloworld");

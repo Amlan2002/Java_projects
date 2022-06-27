@@ -1,4 +1,4 @@
-package Java_projects;
+package Java_projects.example;
 import java.util.Scanner;
 
 //Acsept int array with target . if any subset is giving the target return true or false;
