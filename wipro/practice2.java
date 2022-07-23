@@ -13,7 +13,7 @@ public class practice2 {
         System.out.println(findPin(input1,input2,input3,input4));
         sc.close();
     }
-    public  int findPin(int input1,int input2,int input3,int input4){
+    public static  int findPin(int input1,int input2,int input3,int input4){
     int result = 0;
 		if(input4%2==0){
             result = ((evenPos(input1) + evenPos(input2) + evenPos(input3)) - (oddPos(input1)+oddPos(input2)+oddPos(input3)));
@@ -23,7 +23,7 @@ public class practice2 {
 		return result;
 	}
 
-	public  int evenPos(int num){
+	public static  int evenPos(int num){
 		int sum = 0;	
 		String str = num+"";
 		for(int i = 0;i<4;i++){
@@ -34,7 +34,7 @@ public class practice2 {
 		return sum;
 	}
 
-    public  int oddPos(int num){
+    public static  int oddPos(int num){
 		int sum = 0;
 		String str = num+"";
 		for(int i = 0;i<4;i++){

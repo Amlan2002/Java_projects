@@ -2,10 +2,10 @@ package wipro;
 import java.util.*;
 public class practice3 {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        int input1[] = new int[]
-        System.out.println(findRepArray())
-        sc.close();
+        // Scanner sc = new Scanner(System.in);
+        // int input1[] = new int[]
+        // System.out.println(findRepArray())
+        // sc.close();
     }
     public static int findRepArray(int[] input1,int input2){
     HashSet<Integer> set = new HashSet<Integer>();
@@ -24,5 +24,4 @@ public class practice3 {
 		}
 		return ans;
 	}
-}
 }
